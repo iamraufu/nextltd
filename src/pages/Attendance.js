@@ -21,6 +21,7 @@ const Attendance = () => {
                 console.log(data);
                 setData(Object.values(data))
             })
+           // eslint-disable-next-line 
     }, [])
 
     return (
