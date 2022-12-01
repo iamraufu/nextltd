@@ -1,0 +1,23 @@
+.custom-form {
+    border: none;
+    border-bottom: 1px solid lightgrey;
+}
+
+.custom-form:focus {
+    outline: none;
+}
+
+.right-container-login {
+    background: #FFFFFF;
+    box-shadow: 1px -10px 25px rgba(201, 201, 201, 0.25), -1px 10px 25px rgba(147, 147, 147, 0.25);
+}
+
+.login-btn {
+    background-color: #1678CB;
+    color: #fff;
+    width: 104px;
+    border-radius: 15px;
+    border: none;
+    padding: 15px 20px 15px 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
